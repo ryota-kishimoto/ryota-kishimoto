@@ -8,4 +8,4 @@ Software Engineer based in Japan.
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-[Zenn](https://zenn.dev/kuxu)
+[![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/kuxu)
